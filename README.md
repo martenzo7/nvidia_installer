@@ -9,3 +9,5 @@ Easy script to install the latest NVIDIA driver on Debian Linux
 `chmod +x ./nvidia_installer`
 
 `sudo ./nvidia_installer`
+
+`sudo apt install nvidia-driver`
